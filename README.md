@@ -1,4 +1,4 @@
-# ✊ Stone Paper Scissors Game
+# ✊🖐️🖖 Stone Paper Scissors Game
 
 A fun, responsive, and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against the computer!
 
